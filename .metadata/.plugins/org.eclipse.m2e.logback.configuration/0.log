@@ -1,0 +1,15 @@
+2018-01-12 15:44:42,031 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.star0393:WebMagic:0.0.1-SNAPSHOT @ E:\EclipseWork\MyDemo\WebMagic\pom.xml.
+2018-01-12 15:44:42,485 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /WebMagic/src/main/java
+2018-01-12 15:44:42,486 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /WebMagic/src/main/resources
+2018-01-12 15:44:42,487 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /WebMagic/src/test/java
+2018-01-12 15:44:42,487 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /WebMagic/src/test/resources
+2018-01-12 15:44:43,346 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.star0393:WebMagic:0.0.1-SNAPSHOT @ E:\EclipseWork\MyDemo\WebMagic\pom.xml.
+2018-01-12 15:44:43,558 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-12 15:44:43,561 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-12 15:44:43,563 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-12 15:44:43,564 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-12 15:44:43,868 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.star0393:WebMagic:0.0.1-SNAPSHOT @ E:\EclipseWork\MyDemo\WebMagic\pom.xml.
+2018-01-12 15:44:44,654 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-12 15:44:44,656 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-12 15:44:44,657 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-12 15:44:44,658 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
