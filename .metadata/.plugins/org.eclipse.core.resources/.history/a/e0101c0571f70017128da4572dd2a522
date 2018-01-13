@@ -1,0 +1,36 @@
+package utils;
+
+import us.codecraft.webmagic.Page;
+import us.codecraft.webmagic.Site;
+import us.codecraft.webmagic.processor.PageProcessor;
+
+public class BaiduUtils implements PageProcessor {
+
+	/**
+	 * 需要设置domin否则cookie不生效 添加cookie信息
+	 */
+	private Site site = Site
+			.me()
+			.setDomain("www.baidu.com")
+			.addCookie("BAIDUID", "251852206A3703BA8CE84076E3226079:FG=1")
+			.addCookie("BDORZ", "B490B5EBF6F3CD402E515D22BCDA1598")
+			.addCookie(
+					"BDUSS",
+					"RhM3dsOG16eGZsQktuOXpkbTdVN1B0MjNtemlrREtkUVhRSW9TdWQyQWYtbjlhQVFBQUFBJCQAAAAAAAAAAAEAAABSD8kDcHVyZcrpza8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB9tWFofbVhaMj")
+			.addCookie("BIDUPSID", "AEE9E6742A3D070EE68CFB8F2DEA02A9")
+			.addCookie("H_PS_PSSID", "1438_21088_17001_20930")
+			.addCookie("PSTM", "1515744544").addCookie("sugstore", "0")
+			.addCookie("BD_HOME", "1").addCookie("BD_UPN", "12314353")
+			.addHeader("", "");
+
+	public Site getSite() {
+		// TODO Auto-generated method stub
+		return site;
+	}
+
+	public void process(Page arg0) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

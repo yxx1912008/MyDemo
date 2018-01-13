@@ -1,0 +1,25 @@
+package utils;
+
+import us.codecraft.webmagic.Page;
+import us.codecraft.webmagic.Site;
+import us.codecraft.webmagic.processor.PageProcessor;
+
+public class BaiduUtils implements PageProcessor {
+
+	/**
+	 * 需要设置domin否则cookie不生效 
+	 * 添加cookie信息
+	 */
+	private Site site = Site.me().setDomain("www.baidu.com");
+
+	public Site getSite() {
+		// TODO Auto-generated method stub
+		return site;
+	}
+
+	public void process(Page arg0) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
